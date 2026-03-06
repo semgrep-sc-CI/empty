@@ -1,0 +1,13 @@
+*.min.js
+*_test.go
+.env/
+.npm/
+.semgrep
+.semgrep_logs/
+.tox/
+.venv/
+build/
+dist/
+docs/
+node_modules/
+vendor/
